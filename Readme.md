@@ -12,7 +12,7 @@
 No Requirement of API ID and API HASH
 You can use this replit for string session of bot too
 
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/meizmrperfect/criminalsspam1.0)](https://replit.com/@Neizzmrperfect/criminals)
+   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/meizmrperfect/criminalsspam1.0)](https://replit.com/@Meizzmrperfect/criminals)
    - Termux : `sh -c "$(curl -fsSL https://da.gd/YukkiBot)"` (Use `python string_session.py` next time to generate another string.)
 
 
