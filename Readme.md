@@ -1,4 +1,4 @@
-# Yukki Multi Spam Bot 
+# Criminals Spam Bot 1.0
 
 <p align="center">
   <img src="https://telegra.ph/file/ccfbea8b06f46c0222124.jpg">
@@ -12,7 +12,7 @@
 No Requirement of API ID and API HASH
 You can use this replit for string session of bot too
 
-   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/meizmrperfect/criminalsspam1.0)](https://replit.com/@Meizmrperfect/Criminals)
+   - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/meizmrperfect/criminalsspam1.0)](https://replit.com/@Meizzmrperfect/Criminals)
    - Termux : `sh -c "$(curl -fsSL https://da.gd/YukkiBot)"` (Use `python string_session.py` next time to generate another string.)
 
 
