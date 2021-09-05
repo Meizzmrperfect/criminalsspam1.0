@@ -7,6 +7,7 @@
 ## 🚀 Deploy on Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMeizzmrperfect%2Fcriminalsspam1.0)
 
+## 🌐 Deploy on railway 
 
 ## String Session
 No Requirement of API ID and API HASH
